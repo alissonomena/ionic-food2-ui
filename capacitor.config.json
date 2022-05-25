@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "food2-ui",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

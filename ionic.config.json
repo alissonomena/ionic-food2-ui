@@ -1,0 +1,7 @@
+{
+  "name": "food2-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
